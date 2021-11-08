@@ -15,9 +15,9 @@ body {
   font-weight: 700;
   font-size: 26px;
   line-height: 1, 2;
-  letter-spacing: 0.03em;
-  color: #2196f3;
-}
+  letter-spacing: 0.03em;}
+  .logo-header-left {color:#2196f3 ;}
+.logo-header-right {color:#212121}
 
 .nav-link {
   font-weight: 500;
@@ -143,6 +143,8 @@ text-align: center;
 letter-spacing: 0.06em;
 color: #FFFFFF;
 background-color: #2196F3;}
+.hero-btn:focus {background-color: #188CE8;}
+.hero-btn:hover {background-color: #188CE8;}
 
 .benefits {
   position: absolute;
